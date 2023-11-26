@@ -1,0 +1,240 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\www.gov.br\ajax\libs\Swiper\3.4.2\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\www.gov.br\ajax\libs\Swiper\3.4.2\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png
+File Name: C:\Downloaded Web Sites\www.gov.br\app-store\marketing\guidelines\images\badge-example-preferred.png
+Content Type: image/png
+
+Uri: https://play.google.com/intl/en_us/badges/images/badge_new.png
+File Name: C:\Downloaded Web Sites\www.gov.br\intl\en_us\badges\images\badge_new.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/css/all.css
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.gov.br\releases\v6.4.2\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css
+File Name: C:\Downloaded Web Sites\www.gov.br\  resource  brasil.gov.agenda\brasilgovagenda-720c34e.css
+Content Type: text/css
+
+Uri: https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js
+File Name: C:\Downloaded Web Sites\www.gov.br\  resource  brasil.gov.agenda\brasilgovagenda-720c34e.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-ee510e4.css
+File Name: C:\Downloaded Web Sites\www.gov.br\  resource  brasil.gov.portal\brasilgovportal-ee510e4.css
+Content Type: text/css
+
+Uri: https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-ee510e4.js
+File Name: C:\Downloaded Web Sites\www.gov.br\  resource  brasil.gov.portal\brasilgovportal-ee510e4.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/++resource++govbr.policy/lgpd_cookie_handling_1_3_55.js
+File Name: C:\Downloaded Web Sites\www.gov.br\  resource  govbr.policy\lgpd_cookie_handling_1_3_55.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/++theme++padrao_govbr/favicons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.gov.br\  theme  padrao_govbr\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.gov.br/++theme++padrao_govbr/favicons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.gov.br\  theme  padrao_govbr\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.gov.br/++theme++padrao_govbr/favicons/favicon-48x48.png
+File Name: C:\Downloaded Web Sites\www.gov.br\  theme  padrao_govbr\favicons\favicon-48x48.png
+Content Type: image/png
+
+Uri: https://www.gov.br/++theme++padrao_govbr/favicons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.gov.br\  theme  padrao_govbr\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gov.br/++theme++padrao_govbr/govbrtheme-4d6b3d4.css
+File Name: C:\Downloaded Web Sites\www.gov.br\  theme  padrao_govbr\govbrtheme-4d6b3d4.css
+Content Type: text/css
+
+Uri: https://www.gov.br/++theme++padrao_govbr/govbrtheme-4d6b3d4.js
+File Name: C:\Downloaded Web Sites\www.gov.br\  theme  padrao_govbr\govbrtheme-4d6b3d4.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/cdn/sso-status-bar/src/js/sso-status-bar.js
+File Name: C:\Downloaded Web Sites\www.gov.br\cdn\sso-status-bar\src\js\sso-status-bar.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/clipboard.min.js
+File Name: C:\Downloaded Web Sites\www.gov.br\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/linkify-jquery.min.js
+File Name: C:\Downloaded Web Sites\www.gov.br\linkify-jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/linkify.min.js
+File Name: C:\Downloaded Web Sites\www.gov.br\linkify.min.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/antiflicker-cachekey-777bacc7794dd03dbe43f42822f5917b.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\antiflicker-cachekey-777bacc7794dd03dbe43f42822f5917b.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/base-cachekey-e65b78bd7a486d5f76df43f5b0a112b5.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\base-cachekey-e65b78bd7a486d5f76df43f5b0a112b5.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/ploneCustom.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\ploneCustom.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/reset-cachekey-d11f0ac5d57240ff89bced262d76a685.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\reset-cachekey-d11f0ac5d57240ff89bced262d76a685.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/resourcecollective.pollscsscollective.polls-cachekey-9a49777631573bd94776a9b9762632b6.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\resourcecollective.pollscsscollective.polls-cachekey-9a49777631573bd94776a9b9762632b6.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-3ab57b9f177016920ee51f89417dec2f.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\resourcecollective.z3cform.datagridfielddatagridfield-cachekey-3ab57b9f177016920ee51f89417dec2f.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/resourcelgpd.plugindsgov.min-cachekey-30489768beb8eed215d36d368e309704.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\resourcelgpd.plugindsgov.min-cachekey-30489768beb8eed215d36d368e309704.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/resourcepas.plugins.loginunicologinunico-cachekey-14dda4c76b173fa5d1f186582646852d.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\resourcepas.plugins.loginunicologinunico-cachekey-14dda4c76b173fa5d1f186582646852d.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/resourceplone.app.jquerytools.dateinput-cachekey-793a5f18091e8cfb17bfc8170ba76239.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\resourceplone.app.jquerytools.dateinput-cachekey-793a5f18091e8cfb17bfc8170ba76239.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/resourceplone.formwidget.datetimestyles-cachekey-3bfb274c6d9276d8afa0626728abcac3.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\resourceplone.formwidget.datetimestyles-cachekey-3bfb274c6d9276d8afa0626728abcac3.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_css/Sunburst Theme/themegovbr.servicoscssservicos-cachekey-9e1d511b214f069e6d8df0946b821bb6.css
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_css\Sunburst Theme\themegovbr.servicoscssservicos-cachekey-9e1d511b214f069e6d8df0946b821bb6.css
+Content Type: text/css
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/++resource++govbr.recomendacao/govbr.recom.9e3eea160cd9e43452ac.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\  resource  govbr.recomendacao\govbr.recom.9e3eea160cd9e43452ac.js
+Content Type: application/javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/collective.js.jqueryui.custom.min-cachekey-594cb5f6339e560015fdb426e7da2b23.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\collective.js.jqueryui.custom.min-cachekey-594cb5f6339e560015fdb426e7da2b23.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/exibir-bloco-servicos-recomendados-cachekey-baeaef360f2ce708c1b470cc2117d6e2.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\exibir-bloco-servicos-recomendados-cachekey-baeaef360f2ce708c1b470cc2117d6e2.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/kss-bbb-cachekey-ff2460ee12436ea17a7643a648c4bef2.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\kss-bbb-cachekey-ff2460ee12436ea17a7643a648c4bef2.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/register_function-cachekey-47c5e406e16a8a3a27a50b7dfd6944e0.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\register_function-cachekey-47c5e406e16a8a3a27a50b7dfd6944e0.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c0cb0cd5ee5207779bcfb4c77f015448.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c0cb0cd5ee5207779bcfb4c77f015448.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcecollective.coverjsmain-cachekey-251e298f9a036d0eeadff41b82b5ae69.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcecollective.coverjsmain-cachekey-251e298f9a036d0eeadff41b82b5ae69.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-213e48e8050995bfde28f356165dcbd2.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcecollective.js.bootstrapjsbootstrap.min-cachekey-213e48e8050995bfde28f356165dcbd2.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-f6db77c97481ca6cd4cde1133815235c.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcecollective.z3cform.datagridfielddatagridfield-cachekey-f6db77c97481ca6cd4cde1133815235c.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcedropdown-menu-cachekey-86acbb2d11bc3525a049e976c90521fe.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcedropdown-menu-cachekey-86acbb2d11bc3525a049e976c90521fe.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcegovbr.policyapplication_cookiebar_1_3_55-cachekey-81f011d9a3b9c6060816f3e80536b459.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcegovbr.policyapplication_cookiebar_1_3_55-cachekey-81f011d9a3b9c6060816f3e80536b459.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcegovbr.policycookiebar_1_3_55-cachekey-0715f88719e4d1066fed6c48163577e1.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcegovbr.policycookiebar_1_3_55-cachekey-0715f88719e4d1066fed6c48163577e1.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcegovbr.policyfolder_contents-cachekey-2a115a07c9acbd4835f95e119a71cc75.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcegovbr.policyfolder_contents-cachekey-2a115a07c9acbd4835f95e119a71cc75.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcelgpd.pluginblock_cookies-cachekey-32faa7ed9c3cbe8a199d150edc679453.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcelgpd.pluginblock_cookies-cachekey-32faa7ed9c3cbe8a199d150edc679453.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourcelgpd.pluginchangeCookieImage-cachekey-cc7d54570046ce8f50a4a8914bd9e7ac.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourcelgpd.pluginchangeCookieImage-cachekey-cc7d54570046ce8f50a4a8914bd9e7ac.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourceplone.app.jquery-cachekey-7797447d685560cc20de494c581bab39.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourceplone.app.jquery-cachekey-7797447d685560cc20de494c581bab39.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-e1b12fc8e744692f64ecd17ed37efa7a.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-e1b12fc8e744692f64ecd17ed37efa7a.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/themegovbr.servicosjsdatepicker-cachekey-879ba9cde33f73e21de9d2c218e0f46e.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\themegovbr.servicosjsdatepicker-cachekey-879ba9cde33f73e21de9d2c218e0f46e.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/themegovbr.servicosjsformwidget-autocomplete-cachekey-77f297046986d080e94d86e97c941331.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\themegovbr.servicosjsformwidget-autocomplete-cachekey-77f297046986d080e94d86e97c941331.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/portal_javascripts/Sunburst Theme/themegovbr.servicosjsservico-cachekey-5a739392875f6d9a2b866a1d08ccbac0.js
+File Name: C:\Downloaded Web Sites\www.gov.br\portal_javascripts\Sunburst Theme\themegovbr.servicosjsservico-cachekey-5a739392875f6d9a2b866a1d08ccbac0.js
+Content Type: application/x-javascript
+
+Uri: https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano
+File Name: C:\Downloaded Web Sites\www.gov.br\pt-br\servicos\solicitar-aposentadoria-por-idade-trabalhador-urbano.html
+Content Type: text/html
+
